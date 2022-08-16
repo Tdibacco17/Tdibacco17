@@ -25,6 +25,14 @@
 
 ###
 
+<h2 align="left">Proyectos</h2>
+<div align="left">
+    <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img className="imagenPiDogs" src={piDogs} alt="background" /></a>
+    <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img className="imagenGroupPorject" src={ecommerce} alt="background" /></a>
+</div>
+
+###
+
 <h2 align="left">Contacto</h2>
 
 ###
