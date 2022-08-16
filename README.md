@@ -27,8 +27,9 @@
 
 <h2 align="left">Proyectos</h2>
 <div align="left">
-    <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img  src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" /></a>
-    <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" /></a>
+    <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img  src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="500px" height="300px"/></a>
+    <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="500px" height="300px"/></a></br></br>
+  <p>🐶 Single Page Application</p><p>🖥️ Group Project Application</p>
 </div>
 
 ###
