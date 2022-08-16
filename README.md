@@ -34,7 +34,8 @@
     <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
     <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
   <h4>🐶 Aplicación Proyecto Individual:</h4>
-  <p>Es una aplicación de página única, basada en una api de perros con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry. Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
+  <p>Es una aplicación de página única, basada en una api de perros con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry realizando diferentes funcionalidades.</br>
+  Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
   <p>GameHub es una aplicacion web que ah sido pensada para la compra y venta de productos de computacion, la pagina cuenta con distintos roles para su navegacion.    "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la pagina.</br>
 En la cual usamos tecnologias como React, Redux, TypeScript, Material-UI, Css puro para el FrontEnd, NodeJs, Express, Mongoose, Nodemailer, Stripe, MercadopagoDevelopers, Cloudinary,  para el BackEnd y MongoDB para la base de datos.</p>
