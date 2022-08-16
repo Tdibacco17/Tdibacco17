@@ -34,7 +34,7 @@
     <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
     <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
   <h4>🐶 Aplicación Proyecto Individual:</h4>
-  <p>Es una aplicación de página única, basada en una api de perros con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry. Desarrolada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
+  <p>Es una aplicación de página única, basada en una api de perros con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry. Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
   <p>Es un aplicacion de formato eCommerce de productos de computación, realizada en grupo como proyecto final en el bootcamp de SoyHenry. En la cual usamos tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express,  </p>
 </div>
