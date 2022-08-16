@@ -4,8 +4,6 @@
 <h4> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
 <h4>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
 
-</br>
-<a href="https://www.linkedin.com/in/tomas-di-bacco-20a7a7240/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio" 💼</a>
 
 ###
 
@@ -55,5 +53,8 @@ En la cual usamos tecnologias como React, Redux, TypeScript, Material-UI, Css pu
    <a href="mailto:tomasdibacco@gmail.com" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://wa.me/541166637192" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
 </div>
+</br>
+<a href="https://www.linkedin.com/in/tomas-di-bacco-20a7a7240/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio" 💼</a>
+
 
 ###
