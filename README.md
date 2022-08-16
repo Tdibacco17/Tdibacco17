@@ -1,8 +1,8 @@
 #
 <h1 align="left">HOLA MUNDO... !!👋</h1>
 
-<p> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </p>
-<p>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</p>
+<h4> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
+<h4>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
 
 ###
 
@@ -33,7 +33,7 @@
 <div align="left">
     <a href="https://pi-dogs-main-pearl.vercel.app/" rel="noopener noreferrer" target="_blank"><img  src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
     <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
-  <p>🐶 Single Page Application.</p><p>🖥️ Group Project Application.</p>
+  <h4>🐶 Single Page Application.</h4><h4>🖥️ Group Project Application.</h4>
 </div>
 
 ###
