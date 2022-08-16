@@ -1,11 +1,11 @@
 #
-<h1 align="left">HOLA MUNDO... !!👋</h1>
+<h1 align="left">HOLA MUNDO... !!🤘🏼</h1>
 
 <h4> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
 <h4>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
 
 </br>
-<a href="https://www.linkedin.com/in/tomas-di-bacco-20a7a7240/" rel="noopener noreferrer" target="_blank"><h4>Te invito a ver mi Portfolio</h4></a>
+<a href="https://www.linkedin.com/in/tomas-di-bacco-20a7a7240/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio" 💼</a>
 
 ###
 
