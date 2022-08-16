@@ -1,8 +1,8 @@
 #
 <h1 align="left">HOLA MUNDO... !!👋</h1>
 
-### Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub.
-### Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo. 
+<p> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </p>
+<p>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</p>
 
 ###
 
