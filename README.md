@@ -36,7 +36,7 @@
   <h4>🐶 Aplicación Proyecto Individual:</h4>
   <p>Es una aplicación de página única, basada en una api de perros con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry. Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
-  <p>Es un aplicacion de formato eCommerce de productos de computación, realizada en grupo como proyecto final en el bootcamp de SoyHenry. En la cual usamos tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express,  </p>
+  <p>Es un aplicacion de formato eCommerce de productos de computación, realizada en grupo como proyecto final en el bootcamp de SoyHenry. En la cual usamos tecnologias como React, Redux, TypeScript, Material-UI, Css puro para el FrontEnd, NodeJs, Express, Mongoose, Nodemailer, Stripe, MercadopagoDevelopers, Cloudinary,  para el BackEnd y MongoDB para la base de datos.</p>
 </div>
 
 ###
