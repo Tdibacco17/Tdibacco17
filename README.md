@@ -38,8 +38,9 @@
   <p>Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry realizando diferentes funcionalidades.</br>
   Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
-  <p>GameHub es una aplicacion web que ha sido pensada para la compra y venta de productos de computacion, la pagina cuenta con distintos roles para su navegacion.    "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la pagina.</br>
-En la cual usamos tecnologias como React, Redux, TypeScript, Material-UI, Css puro para el FrontEnd, NodeJs, Express, Mongoose, Nodemailer, Stripe, MercadopagoDevelopers, Cloudinary,  para el BackEnd y MongoDB para la base de datos.</p>
+  <p>GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
+Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.Proyecto Final hecho para el Bootcamp de Henry. GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.
+Aptitudes: React.js · Express.js · Node.js · Mongoose · MongoDB · Trabajo en equipo · Scrum</p>
 </div>
 
 ###
