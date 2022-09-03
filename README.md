@@ -44,7 +44,7 @@
 <a href="https://rickymorty-app-tdb.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/captura%20rick.png alt="background" width="400px" height="200px"/></a>
 <h4>🧪 Aplicación Proyecto Personal:</h4>
 <p>Es una aplicacion realizada por cuenta propia para reforzar los conocimientos aprendidos en el bootcamp de Henry.</br>
-  Desarrollada con tecnologias como React, Redux, Boostrap para el front FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
+  Desarrollada con tecnologias como React, Redux, Bootstrap para el front FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
 
 ###
 
