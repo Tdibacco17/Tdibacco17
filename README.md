@@ -1,12 +1,18 @@
-
- **<h1 align="center">Buenas! Como va. 🧉</h1>**
-*<div id="user-content-toc">
+<div id="user-content-toc">
   <ul>
-<summary><h2 style="display: inline-block;">Me llamo Tomas y soy Desarrollador Full-Stack.</h2></summary>
+    <summary>
+      <h1 align="center"style="display: inline-block;">Buenas! Como va. 🧉</h1>
+      </br>
+      <h1 style="display: inline-block;">Me llamo Tomas y soy Desarrollador Full-Stack.</h1>
+    </summary>
   </ul>
-</div>*
+</div>
 
+
+ *<h3 align="center"></h3>*
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
+
+
 
 
 ##
@@ -16,6 +22,8 @@
  	<sub>This is a subscript text</sub>
  
 <sup>This is a superscript text</sup>
+
+
 
 ##
 
