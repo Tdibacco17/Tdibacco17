@@ -58,7 +58,7 @@
   <a href="https://wa.me/541166637192" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
 </div>
 </br>
-<a href="https://portfolio-tomasdibacco.vercel.app/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio"</a>
+<a href="https://portfolio-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio"</a>
 
 
 ###
