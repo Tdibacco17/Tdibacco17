@@ -1,5 +1,5 @@
 #
-<h1 align="center">Buenas!! como va 🏼</h1>
+<h1 style="text-align:center"> Buenas! Como va </h1>
 
 <h4> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
 <h4>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
