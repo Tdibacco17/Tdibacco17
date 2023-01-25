@@ -1,13 +1,34 @@
-#
-<h1 align="center"> Buenas! Como va </h1>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
-<h4> Me llamo Tomas, soy un desarrollador Full-Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
-<h4>Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gustan los desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
+ <h1 align="center"> Buenas! Como va. 🧉</h1>
+ **prueba**
+
+<h4 align="center">Me llamo Tomas, soy Desarrollador Full-Stack con ganas de seguir aprendiendo y mejorando en este mundo del desarrollo web.</h4>
+<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>
+<p align="left">
+</p>
+
+ ## Proceso de subida de homeworks
+
+```bash
+  git add . 
+  git commit -m "el mensaje que ustedes quieran"
+  git push
+```
+
+### 
+
+### 
+>  ### Proyectos
+
+- __Streams y pipes__: [substack](https://github.com/substack/stream-handbook)
+- [__Event loop__](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [__Inheritance Patterns__](http://davidshariff.com/blog/javascript-inheritance-patterns/#first-article)
+
+ 
+ ##
+
+
+
 
 
 ###
