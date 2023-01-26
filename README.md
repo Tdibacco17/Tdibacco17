@@ -52,8 +52,6 @@
 
 <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
 
-</br>
-
 >  ##### Proyecto individual
 > 
 >  Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.
@@ -77,8 +75,6 @@
 
 <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
 
-</br>
-
 >  ##### Proyecto grupal
 >
 >  Es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
@@ -101,8 +97,6 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
 </br>
 
 <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.jpg">
-
-</br>
 
 >  ##### Proyecto individual
 >  
