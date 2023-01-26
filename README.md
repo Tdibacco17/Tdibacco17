@@ -4,10 +4,6 @@
 *<h3 align="center">Me llamo Tomas y soy Desarrollador Full-Stack.</h3>*
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
 
-</br>
-
-*<h5 align="center">Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.</h5>*
-
 ##
  
 >  TENGO CONOCIMIENTOS EN:
@@ -35,6 +31,8 @@
 
 +   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 +   [+5491166637192](https://wa.me/541166637192)
+
+*<h5 align="center">Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.</h5>*
 
 ##
 
