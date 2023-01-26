@@ -43,14 +43,14 @@
 
 <h2 align="center">PROYECTOS</h2>
 
->  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://app-dogs-tomas-di-bacco.vercel.app/) 
+>  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://github.com/Tdibacco17/App-Proyecto-Individual-) 
 
 <details>
 <summary>Ver detalles</summary>
  
 </br>
 
-<a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/Tdibacco17/App-Proyecto-Individual-" rel="noopener noreferrer" target="_blank">
    <img align="right" width="315" height="145" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
 </a>
 
@@ -68,14 +68,14 @@
 
 </br>
 
->  ### 🖥️ [Academic] Back-End Developer - [GAMEHUB E-Commerce](https://gamehub-chi.vercel.app/)
+>  ### 🖥️ [Academic] Back-End Developer - [GAMEHUB E-Commerce](https://github.com/Tdibacco17/App-Proyecto-Grupal-)
 
 <details>
 <summary>Ver detalles</summary>
  
 </br>
 
-<a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/Tdibacco17/App-Proyecto-Grupal-" rel="noopener noreferrer" target="_blank">
    <img align="right" width="315" height="145" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
 </a>
 
@@ -93,14 +93,14 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
 
 </br>
 
->  ### 🧪 Full-Stack Developer - [RICK Y MORTY](https://rick-y-morty-tomas-di-bacco.vercel.app/)
+>  ### 🧪 Full-Stack Developer - [RICK Y MORTY](https://github.com/Tdibacco17/Rick-y-Morty)
 
 <details>
 <summary>Ver detalles</summary>
  
 </br>
 
-<a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/Tdibacco17/Rick-y-Morty" rel="noopener noreferrer" target="_blank">
    <img align="right" width="315" height="145" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.jpg">
 </a>
 
