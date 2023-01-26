@@ -51,7 +51,6 @@
 >  +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
 ```
-
 ```
 </br>
 
@@ -65,7 +64,6 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 > +  Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
 
 ```
-
 ```
 </br>
 
@@ -79,5 +77,4 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 > +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
 ```
-
 ```
