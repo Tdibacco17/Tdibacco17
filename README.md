@@ -84,8 +84,8 @@
 >  *Es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
 Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago, registro de usuarios y distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, stock y usuarios. Y "Owner" como dueño de la misma.*
 > 
-> +  **Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
-> +  **Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
+> +  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
+> +  Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
 
 ---
 
@@ -108,8 +108,8 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
 >  
 >  *Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.*
 >
-> +  **Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
-> +  **Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
+> +  **Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.**
+> +  **Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.**
 
 ---
 
