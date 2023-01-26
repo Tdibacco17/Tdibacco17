@@ -80,7 +80,7 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 
 >  <h3> 🧪 Full-Stack Developer - RICK Y MORTY</h3>
 
-Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos
+Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
    en el Bootcamp realizando diferentes funcionalidades.
 
 +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
@@ -88,7 +88,7 @@ Es una aplicación de página única, basada en una api de perros "The Dog API" 
 
 ```
 ```
-
+</br></br>
 
 
 Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
