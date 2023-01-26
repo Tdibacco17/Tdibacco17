@@ -44,6 +44,12 @@
 <h2 align="center">PROYECTOS</h2>
 
 >  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://app-dogs-tomas-di-bacco.vercel.app/) 
+>  
+<details>
+<summary>Ver detalles</summary>
+ 
+</br>
+
 >  ##### Proyecto individual
 > 
 >  Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.
@@ -53,6 +59,10 @@
 
 ```
 ```
+ 
+</details>
+
+
 </br>
 
 >  ### 🖥️ [Academic] Back-End Developer - [GAMEHUB E-Commerce](https://gamehub-chi.vercel.app/)
