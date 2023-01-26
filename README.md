@@ -36,8 +36,6 @@
 
 >  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
 
-</br>
-
 ##
 
 <!--
