@@ -5,12 +5,6 @@
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
 
 </br>
-
-<p align="right">
- <a href="https://certificates.soyhenry.com/cert?id=ab1a5fb5-9b2e-454b-a8fb-5e4d3ae64eb1" rel="noopener noreferrer" target="_blank">
-  <sup> HENRY CERTIFICATE </sup>
- </a>
-</p>
   
 ##
  
