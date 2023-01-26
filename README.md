@@ -33,7 +33,7 @@ No dudes en contactar conmigo a través de:
 ```
 ##
 
->  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/) 😉
+>  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
 
 <!--
 <h2 align="left">Proyectos</h2>
