@@ -5,6 +5,8 @@
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
  
 ##
+
+**This text is _extremely_ important**
  
 >  TENGO CONOCIMIENTOS EN:
 
@@ -28,9 +30,12 @@
 ##
 
 >  NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
-+  tomasdibacco@gmail.com
-+  [+5491166637192](https://wa.me/541166637192)
-+  [Perfil de linkedin](https://www.linkedin.com/in/tomas-di-bacco/)
+
+```
+📭  tomasdibacco@gmail.com
+📞  +5491166637192
+```
+
 
 ##
 
@@ -39,6 +44,11 @@
 ##
 
 <!--
+
++  tomasdibacco@gmail.com
++  [+5491166637192](https://wa.me/541166637192)
++  [Perfil de linkedin](https://www.linkedin.com/in/tomas-di-bacco/)
+
 
 ```bash
 NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
