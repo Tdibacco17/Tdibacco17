@@ -38,10 +38,14 @@
 
 ##
 
-<h2 align="left">Proyectos</h2>
+</br></br>
+
+
+<h2 align="center">PROYECTOS</h2>
+
 <div align="left">
     <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
-    <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
+    </br></br>
 
 
 >  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
@@ -54,6 +58,10 @@ Es una aplicación de página única, basada en una api de perros "The Dog API" 
 
 ```
 ```
+</br></br>
+
+<a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a>
+</br></br>
 
 >  <h3> 🖥️ [Academic] Back-End Developer - GAMEHUB E-Commerce</h3>
 
@@ -65,6 +73,23 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 
 ```
 ```
+</br></br>
+
+<a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/captura%20rick.png alt="background" width="400px" height="200px"/></a>
+</br></br>
+
+>  <h3> 🧪 Full-Stack Developer - RICK Y MORTY</h3>
+
+Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos
+   en el Bootcamp realizando diferentes funcionalidades.
+
++  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
++  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
+
+```
+```
+
+
 
 Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
 -Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
@@ -72,7 +97,7 @@ Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo d
   <p>GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.Proyecto Final hecho para el Bootcamp de Henry. GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.</br>
   Desarrollada con tecnologias como React, Redux, Typescript Css puro para el FrontEnd, NodeJs, Express, Mongoose, Stripe, Cloudinary, MercadoPagoDevelopers para el BackEnd y MongoDB para la base de datos.</p>
   
-<a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/captura%20rick.png alt="background" width="400px" height="200px"/></a>
+
 <h4>🧪 Aplicación Proyecto Personal:</h4>
 <p>Es una aplicacion realizada por cuenta propia para reforzar los conocimientos aprendidos en el bootcamp de Henry.</br>
   Desarrollada con tecnologias como React, Redux, Bootstrap para el front FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
