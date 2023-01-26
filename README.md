@@ -73,7 +73,7 @@
  
 </br>
 
-<img align="right" width="275" height="175" src="http://www.fillmurray.com/100/100">
+<img align="right" width="325" height="175" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
 
 >  ##### Proyecto grupal
 >
