@@ -31,32 +31,6 @@ No dudes en contactar conmigo a través de:
 📭   tomasdibacco@gmail.com 
 ☎️   +5491166637192
 ```
-
- ## 
- 
- </br>
- </br></br></br></br>
- 
- 	<sub>This is a subscript text</sub>
- 
-<sup>This is a superscript text</sup>
-
-- __Streams y pipes__: [substack](https://github.com/substack/stream-handbook)
-- [__Event loop__](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [__Inheritance Patterns__](http://davidshariff.com/blog/javascript-inheritance-patterns/#first-article)
-
-
-###
-
-<div align="left">
-
-
-</div>
-
-###
-
-###
-
 <h2 align="left">Proyectos</h2>
 <div align="left">
     <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
