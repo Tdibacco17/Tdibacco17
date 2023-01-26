@@ -88,4 +88,3 @@ Es una aplicación de página única, basada en la api de rick y morty "The Rick
 
 ```
 ```
-</br></br>
