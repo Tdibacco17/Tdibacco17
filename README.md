@@ -46,7 +46,6 @@
     <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
     </br></br>
 
-
 >  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
 >  <h5> Proyecto individual </h5>
 > 
@@ -57,7 +56,7 @@
 
 ```
 ```
-</br></br>
+</br>
 
 <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a>
 </br></br>
@@ -73,7 +72,7 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 
 ```
 ```
-</br></br>
+</br>
 
 <a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/captura%20rick.png alt="background" width="400px" height="200px"/></a>
 </br></br>
