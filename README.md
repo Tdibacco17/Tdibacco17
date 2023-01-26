@@ -28,9 +28,9 @@
 ##
 
 >  NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
-
-+   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
-+   [+5491166637192](https://wa.me/541166637192)
+>
+>  +   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
+>  +   [+5491166637192](https://wa.me/541166637192)
 
 ###### *Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.*
  
