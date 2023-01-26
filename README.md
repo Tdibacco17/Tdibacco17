@@ -44,7 +44,7 @@
 <h2 align="center">PROYECTOS</h2>
 
 >  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://app-dogs-tomas-di-bacco.vercel.app/) 
->  
+
 <details>
 <summary>Ver detalles</summary>
  
@@ -66,6 +66,12 @@
 </br>
 
 >  ### 🖥️ [Academic] Back-End Developer - [GAMEHUB E-Commerce](https://gamehub-chi.vercel.app/)
+
+<details>
+<summary>Ver detalles</summary>
+ 
+</br>
+
 >  ##### Proyecto grupal
 >
 >  GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
@@ -76,9 +82,18 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 
 ```
 ```
+
+</details>
+
 </br>
 
 >  ### 🧪 Full-Stack Developer - [RICK Y MORTY](https://rick-y-morty-tomas-di-bacco.vercel.app/)
+
+<details>
+<summary>Ver detalles</summary>
+ 
+</br>
+
 >  ##### Proyecto individual
 >  
 >  Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
@@ -89,3 +104,4 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 
 ```
 ```
+</details>
