@@ -5,7 +5,7 @@
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
 
 ##
-*<h4 align="left">Tengo conocimientos en:</h4>*
+<h4 align="left">Tengo conocimientos en:</h4>
 
 </br>
  
