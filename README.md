@@ -89,33 +89,3 @@ Es una aplicación de página única, basada en la api de rick y morty "The Rick
 ```
 ```
 </br></br>
-
-
-Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
--Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
-  <h4>🖥️ Aplicación Proyecto Grupal:</h4>
-  <p>GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.Proyecto Final hecho para el Bootcamp de Henry. GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.</br>
-  Desarrollada con tecnologias como React, Redux, Typescript Css puro para el FrontEnd, NodeJs, Express, Mongoose, Stripe, Cloudinary, MercadoPagoDevelopers para el BackEnd y MongoDB para la base de datos.</p>
-  
-
-<h4>🧪 Aplicación Proyecto Personal:</h4>
-<p>Es una aplicacion realizada por cuenta propia para reforzar los conocimientos aprendidos en el bootcamp de Henry.</br>
-  Desarrollada con tecnologias como React, Redux, Bootstrap para el front FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
-
-###
-
-<h2 align="left">Contacto</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tomas-di-bacco/" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-   <a href="mailto:tomasdibacco@gmail.com" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://wa.me/541166637192" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
-</div>
-</br>
-<a href="https://portfolio-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">"Te invito a ver mi Portfolio"</a>
-
-
-###
-
