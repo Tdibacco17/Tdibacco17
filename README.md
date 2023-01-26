@@ -50,7 +50,7 @@
  
 </br>
 
-<img align="right" width="315" height="160" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
+<img align="right" width="315" height="180" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
 
 >  ##### Proyecto individual
 > 
@@ -73,7 +73,7 @@
  
 </br>
 
-<img align="right" width="315" height="160" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
+<img align="right" width="315" height="130" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
 
 >  ##### Proyecto grupal
 >
