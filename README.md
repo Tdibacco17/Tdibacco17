@@ -31,11 +31,8 @@
 
 >  NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
 
-```
-📭  tomasdibacco@gmail.com
-📞  +5491166637192
-```
-
++   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
++   [+5491166637192](https://wa.me/541166637192)
 
 ##
 
@@ -45,17 +42,12 @@
 
 <!--
 
-+  tomasdibacco@gmail.com
-+  [+5491166637192](https://wa.me/541166637192)
-+  [Perfil de linkedin](https://www.linkedin.com/in/tomas-di-bacco/)
 
 
-```bash
-NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
-📭   tomasdibacco@gmail.com
-☎️   +5491166637192
 ```
-
+📭  tomasdibacco@gmail.com
+📞  +5491166637192
+```
 
 <h2 align="left">Proyectos</h2>
 <div align="left">
