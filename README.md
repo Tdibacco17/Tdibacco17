@@ -2,6 +2,8 @@
 
 
 *<h3 align="center">Me llamo Tomas y soy Desarrollador Full-Stack.</h3>*
+</br>
+*<h4 align="center">Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a de E-Commerces.</h4>*
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
   
 ##
