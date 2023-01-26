@@ -6,14 +6,10 @@
 
 ##
 
-   <h4>Tengo conocimientos en: </h4> 
-#### `Javascript · Typescript · React · Redux · Next · Bootstrap · HTML · CSS · MySQL · MongoDB · Sequelize · Node.Js · PostgreSQL · Express`
+<h4>Tengo conocimientos en: </h4> 
+
+<h5>`Javascript · Typescript · React · Redux · Next · Bootstrap · HTML · CSS · MySQL · MongoDB · Sequelize · Node.Js · PostgreSQL · Express`</h5>
    
-   
-
-
-
-
 </br>
 
 >  LENGUAJES
@@ -57,6 +53,7 @@
 </br>
 </br>
 
+<h5>`Javascript · Typescript · React · Redux · Next · Bootstrap · HTML · CSS · MySQL · MongoDB · Sequelize · Node.Js · PostgreSQL · Express`</h5>
 ##
 
 ```bash
