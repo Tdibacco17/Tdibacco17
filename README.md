@@ -27,6 +27,9 @@
 ##
 
 ```bash
+No dudes en contactar conmigo a través de:
+📭   tomasdibacco@gmail.com 
+☎️   +5491166637192
 ```
 
  ## Proceso de subida de homeworks
@@ -35,31 +38,10 @@
  
 <sup>This is a superscript text</sup>
 
-
-
-##
-
-
-
-### 
-
-### 
-
-
 - __Streams y pipes__: [substack](https://github.com/substack/stream-handbook)
 - [__Event loop__](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [__Inheritance Patterns__](http://davidshariff.com/blog/javascript-inheritance-patterns/#first-article)
 
- 
- ##
-
-
-
-
-
-###
-
-<h2 align="left">Tecnologias</h2>
 
 ###
 
