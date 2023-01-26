@@ -6,8 +6,12 @@
 
 </br>
 
-[<sup align="right">HENRY CERTIFICATE</sup>](https://certificates.soyhenry.com/cert?id=ab1a5fb5-9b2e-454b-a8fb-5e4d3ae64eb1)
- 
+<p align="right">
+ <a href="https://certificates.soyhenry.com/cert?id=ab1a5fb5-9b2e-454b-a8fb-5e4d3ae64eb1" rel="noopener noreferrer" target="_blank">
+  <sup>HENRY CERTIFICATE</sup>
+ </a>
+</p>
+  
 ##
  
 >  TENGO CONOCIMIENTOS EN:
