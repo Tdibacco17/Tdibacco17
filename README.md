@@ -40,7 +40,6 @@
 
 </br></br>
 
-
 <h2 align="center">PROYECTOS</h2>
 
 <div align="left">
@@ -49,12 +48,12 @@
 
 
 >  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
-
-Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos
-   en el Bootcamp realizando diferentes funcionalidades.
-
-+  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
-+  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
+>  <h5> Proyecto individual </h5>
+> 
+>  Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.
+>  
+>  +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
+>  +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
 ```
 ```
@@ -64,12 +63,13 @@ Es una aplicación de página única, basada en una api de perros "The Dog API" 
 </br></br>
 
 >  <h3> 🖥️ [Academic] Back-End Developer - GAMEHUB E-Commerce</h3>
-
-GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
+>  <h5> Proyecto grupal </h5>
+>
+>  GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
 Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.
-
-+  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
-+  -Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
+> 
+> +  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
+> +  -Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
 
 ```
 ```
@@ -79,12 +79,13 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 </br></br>
 
 >  <h3> 🧪 Full-Stack Developer - RICK Y MORTY</h3>
-
-Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
+>  <h5> Proyecto individual </h5>
+>  
+>  Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
    en el Bootcamp realizando diferentes funcionalidades.
-
-+  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
-+  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
+>
+> +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
+> +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
 ```
 ```
