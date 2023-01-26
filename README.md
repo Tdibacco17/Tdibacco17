@@ -38,22 +38,36 @@
 
 ##
 
-<!--
-
-
-
-```
-📭  tomasdibacco@gmail.com
-📞  +5491166637192
-```
-
 <h2 align="left">Proyectos</h2>
 <div align="left">
     <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
     <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
-  <h4>🐶 Aplicación Proyecto Individual:</h4>
-  <p>Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry realizando diferentes funcionalidades.</br>
-  Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
+
+
+>  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
+
+Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos
+   en el Bootcamp realizando diferentes funcionalidades.
+
++  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
++  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
+
+```
+```
+
+>  <h3> 🖥️ [Academic] Back-End Developer - GAMEHUB E-Commerce</h3>
+
+GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
+Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.
+
++  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
++  -Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
+
+```
+```
+
+Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
+-Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
   <p>GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.Proyecto Final hecho para el Bootcamp de Henry. GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación. Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.</br>
   Desarrollada con tecnologias como React, Redux, Typescript Css puro para el FrontEnd, NodeJs, Express, Mongoose, Stripe, Cloudinary, MercadoPagoDevelopers para el BackEnd y MongoDB para la base de datos.</p>
@@ -80,4 +94,3 @@
 
 ###
 
--->
