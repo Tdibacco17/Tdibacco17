@@ -6,12 +6,16 @@
 
 ##
 *<h4 align="left">Me llamo Tomas y soy Desarrollador Full-Stack.</h4>*
+
+</br>
  
 >  LENGUAJES
  <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
+
+ </br>
  
 >  FRONT-END
 <div align="left">
@@ -23,6 +27,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
  </div>
  
+ </br>
+ 
 >  BACK-END
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
@@ -32,7 +38,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
- 
+
+</br>
+
+##
 
  ## Proceso de subida de homeworks
  
