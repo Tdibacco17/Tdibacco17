@@ -50,7 +50,9 @@
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
+<a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">
+   <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
+</a>
 
 >  ##### Proyecto individual
 > 
@@ -73,7 +75,9 @@
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
+<a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank">
+   <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
+</a>
 
 >  ##### Proyecto grupal
 >
@@ -96,7 +100,9 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.jpg">
+<a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank">
+   <img align="right" width="300" height="155" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.jpg">
+</a>
 
 >  ##### Proyecto individual
 >  
