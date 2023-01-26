@@ -25,14 +25,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /> 
 </div>
 
-</br></br>  
+</br>
 
 >  NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
 +  tomasdibacco@gmail.com
 +  [+5491166637192](https://wa.me/541166637192)
 +  [Perfil de linkedin](https://www.linkedin.com/in/tomas-di-bacco/)
 
-</br></br> 
+</br>
 
 >  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
 
