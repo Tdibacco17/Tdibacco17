@@ -42,10 +42,6 @@
 
 <h2 align="center">PROYECTOS</h2>
 
-<div align="left">
-    <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg alt="background" width="425px" height="150px"/></a>
-    </br></br>
-
 >  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
 >  <h5> Proyecto individual </h5>
 > 
@@ -57,9 +53,6 @@
 ```
 ```
 </br>
-
-<a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="425px" height="150px"/></a>
-</br></br>
 
 >  <h3> 🖥️ [Academic] Back-End Developer - GAMEHUB E-Commerce</h3>
 >  <h5> Proyecto grupal </h5>
@@ -73,9 +66,6 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 ```
 ```
 </br>
-
-<a href="https://rick-y-morty-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/captura%20rick.png alt="background" width="400px" height="200px"/></a>
-</br></br>
 
 >  <h3> 🧪 Full-Stack Developer - RICK Y MORTY</h3>
 >  <h5> Proyecto individual </h5>
