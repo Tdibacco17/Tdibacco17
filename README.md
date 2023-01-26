@@ -8,7 +8,7 @@
 
 <h4>Tengo conocimientos en: </h4> 
 
-<h5>`Javascript · Typescript · React · Redux · Next · Bootstrap · HTML · CSS · MySQL · MongoDB · Sequelize · Node.Js · PostgreSQL · Express`</h5>
+###### `JAVASCRIPT · TYPESCRIPT · REACT · REDUX · NEXT · BOOTSTRAP · HTML · CSS · MYSQL · MONGODB · SEQUELIZE · NODE.JS · POSTGRESQL · EXPRESS`
    
 </br>
 
