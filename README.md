@@ -61,7 +61,7 @@
 Cuenta con las siguientes características: Carrito de compras, custom PC builder, wishlist, filtrado y paginado de productos, implementación de mercado pago y registro de usuarios. La pagina cuenta con distintos roles para su navegación, "User" para la compra de productos, "Admin" para llevar un control de las ventas, el stock y usuarios. Y "Owner" como dueño de la misma.
 > 
 > +  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
-> +  -Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
+> +  Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
 
 ```
 ```
