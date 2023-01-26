@@ -8,7 +8,7 @@
 
 <p align="right">
  <a href="https://certificates.soyhenry.com/cert?id=ab1a5fb5-9b2e-454b-a8fb-5e4d3ae64eb1" rel="noopener noreferrer" target="_blank">
-  <p>HENRY CERTIFICATE</p>
+  <sup> HENRY CERTIFICATE </sup>
  </a>
 </p>
   
