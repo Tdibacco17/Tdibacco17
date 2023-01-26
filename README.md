@@ -39,10 +39,9 @@
 
 ##
 
-</br></br>
+</br>
 
-<h3 align="center">PROYECTOS</h3>
-##
+<h2 align="center">PROYECTOS</h2>
 
 >  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://app-dogs-tomas-di-bacco.vercel.app/) 
 
