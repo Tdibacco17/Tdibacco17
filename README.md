@@ -96,7 +96,7 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
  
 </br>
 
-<img align="right" width="315" height="160" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.png">
+<img align="right" width="315" height="160" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.jpg">
 
 >  ##### Proyecto individual
 >  
