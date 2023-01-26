@@ -42,7 +42,7 @@
 
 <h2 align="center">PROYECTOS</h2>
 
->  <h3> 🐶 [Academic] Full-Stack Developer - THE DOG API</h3>
+>  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://app-dogs-tomas-di-bacco.vercel.app/) 
 >  <h5> Proyecto individual </h5>
 > 
 >  Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.
@@ -54,7 +54,7 @@
 ```
 </br>
 
->  <h3> 🖥️ [Academic] Back-End Developer - GAMEHUB E-Commerce</h3>
+>  ### 🖥️ [Academic] Back-End Developer - [GAMEHUB E-Commerce](https://gamehub-chi.vercel.app/)
 >  <h5> Proyecto grupal </h5>
 >
 >  GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
@@ -67,7 +67,7 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 ```
 </br>
 
->  <h3> 🧪 Full-Stack Developer - RICK Y MORTY</h3>
+>  ### 🧪 Full-Stack Developer - [RICK Y MORTY](https://rick-y-morty-tomas-di-bacco.vercel.app/)
 >  <h5> Proyecto individual </h5>
 >  
 >  Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
