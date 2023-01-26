@@ -32,7 +32,7 @@
 +   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 +   [+5491166637192](https://wa.me/541166637192)
 
-*<sub>Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.</<sub>*
+*<sub>Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.</sub>*
  
 ##
 
