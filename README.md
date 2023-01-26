@@ -28,7 +28,7 @@
 
 ```bash
 NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
-📭   tomasdibacco@gmail.com 
+📭   tomasdibacco@gmail.com
 ☎️   +5491166637192
 ```
 ##
