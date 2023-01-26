@@ -50,7 +50,7 @@
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
+<img align="right" width="300" height="160" src="https://github.com/Tdibacco17/App-Proyecto-Individual-/blob/main/Imagenes/apiDog.jpg">
 
 >  ##### Proyecto individual
 > 
@@ -73,7 +73,7 @@
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
+<img align="right" width="300" height="160" src="https://github.com/Tdibacco17/App-Proyecto-Grupal-/blob/main/Imagenes/gamehub.jpg">
 
 >  ##### Proyecto grupal
 >
@@ -96,7 +96,7 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
  
 </br>
 
-<img align="right" width="300" height="155" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.png">
+<img align="right" width="300" height="160" src="https://github.com/Tdibacco17/Rick-y-Morty/blob/main/Imagenes/rickYmorty.png">
 
 >  ##### Proyecto individual
 >  
