@@ -50,6 +50,8 @@
  
 </br>
 
+<img align="right" width="250" height="175" src="http://www.fillmurray.com/100/100">
+
 >  ##### Proyecto individual
 > 
 >  Es una aplicación de página única, basada en una api de perros "The Dog API" con el fin de aplicar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.
@@ -57,8 +59,7 @@
 >  +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL.
 >  +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
-```
-```
+---
  
 </details>
 
@@ -72,6 +73,8 @@
  
 </br>
 
+<img align="right" width="250" height="175" src="http://www.fillmurray.com/100/100">
+
 >  ##### Proyecto grupal
 >
 >  GameHub es una aplicación web que ha sido pensada para la compra y venta de productos de computación.
@@ -80,8 +83,7 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 > +  Desarrollo del BackEnd con Javascript, metodología de trabajo tipo scrum. Modelado de la base de datos con Node.Js y Mongoose, manejo de sistema CRUD y seguridad de datos con deploy en MongoDB.
 > +  Desarrollo del FrontEnd con Javascript, metodologia de trabajo tipo scrum. Creación de componentes en React.
 
-```
-```
+---
 
 </details>
 
@@ -94,6 +96,8 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
  
 </br>
 
+<img align="right" width="250" height="175" src="http://www.fillmurray.com/100/100">
+
 >  ##### Proyecto individual
 >  
 >  Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
@@ -102,6 +106,6 @@ Cuenta con las siguientes características: Carrito de compras, custom PC builde
 > +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
 > +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
 
-```
-```
+---
+
 </details>
