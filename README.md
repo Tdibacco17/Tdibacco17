@@ -106,8 +106,7 @@ Cuenta con Carrito de compras, custom PC builder, wishlist, filtrado y paginado 
 
 >  ##### Proyecto individual
 >  
->  *Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos
-   en el Bootcamp realizando diferentes funcionalidades.*
+>  *Es una aplicación de página única, basada en la api de rick y morty "The Rick and Morty API" con el fin de repasar los conocimientos aprendidos en el Bootcamp realizando diferentes funcionalidades.*
 >
 > +  Desarrollo del BackEnd con Javascript, consumiendo datos desde una API, manejo de sistema CRUD y modelado de la base de datos con Node.Js y PostgreSQL. 
 > +  Desarrollo del FrontEnd con Javascript, modelado y creación de componentes responsive en React utilizando Redux.
