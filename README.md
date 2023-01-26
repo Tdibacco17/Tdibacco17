@@ -15,11 +15,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
 
-<div>
-    <sup>JAVASCRIPT</sup>
-    <sup>TYPESCRIPT</sup>
-</div>
-
  </br>
 
 >  FRONT-END
