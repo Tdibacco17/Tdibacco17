@@ -3,10 +3,11 @@
 
 *<h3 align="center">Me llamo Tomas y soy Desarrollador Full-Stack.</h3>*
 *<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
-
-##
+ 
+</br></br> 
  
 >  TENGO CONOCIMIENTOS EN:
+
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -24,18 +25,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /> 
 </div>
 
-##
+</br></br>  
+
+>  NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
++ tomasdibacco@gmail.com
++ +5491166637192
+
+</br></br> 
+
+>  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
+
+<!--
 
 ```bash
 NO DUDES EN CONTACTAR CONMIGO A TRAVÉS DE:
 📭   tomasdibacco@gmail.com
 ☎️   +5491166637192
 ```
-##
 
->  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
 
-<!--
 <h2 align="left">Proyectos</h2>
 <div align="left">
     <a href="https://app-dogs-tomas-di-bacco.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/PiDogs.jpg alt="background" width="400px" height="200px"/></a>
