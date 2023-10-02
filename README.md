@@ -44,6 +44,33 @@
 
 <h2 align="center">PROYECTOS</h2>
 
+</br>
+
+>  ### 🧪 Front-End Developer - [STRONGWOOD](https://www.strongwood.com.ar/) 
+
+<details>
+<summary>Ver detalles</summary>
+ 
+</br>
+
+<a href="https://www.strongwood.com.ar/" rel="noopener noreferrer" target="_blank">
+   <img align="right" width="315" height="145" src="https://github.com/Tdibacco17/StrongWood-v2/blob/main/captura-strongwood.png">
+</a>
+
+>  ##### STRONGWOOD
+>  
+>  *Es una aplicación para un cliente, la cual consiste en mostrar sus trabajos y productos, junto con un formulario de contacto para generar ventas.*
+>
+> +  **Desarrollo FrontEnd de pagina web(SPA) de muebles con Typescript, Node.Js, React y Sass en Next.Js.**
+> +  **Me encargo de la creación de cada aspecto de la página, desde el diseño hasta la experiencia de usuario, incluyendo la arquitectura del proyecto.**
+> +  **Reuniones con el cliente para llevar a cabo el desarrollo y mostrar avances, buscando cumplir con sus expectativas y funcionalidades.**
+
+---
+
+</details>
+
+</br>
+
 >  ### 🐶 [Academic] Full-Stack Developer - [THE DOG API](https://github.com/Tdibacco17/App-Proyecto-Individual-) 
 
 <details>
