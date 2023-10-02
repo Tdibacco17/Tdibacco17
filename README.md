@@ -46,7 +46,7 @@
 
 </br>
 
->  ### 🧪 Front-End Developer - [STRONGWOOD](https://www.strongwood.com.ar/) 
+>  ### 🔨 Front-End Developer - [STRONGWOOD](https://www.strongwood.com.ar/) 
 
 <details>
 <summary>Ver detalles</summary>
