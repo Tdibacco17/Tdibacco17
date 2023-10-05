@@ -36,7 +36,7 @@
  
 ##
 
->  TE INVITO A VER MI [PORTFOLIO](https://portfolio-tomas-di-bacco.vercel.app/)
+>  TE INVITO A VER MI [PORTFOLIO](https://tomas-di-bacco.vercel.app/)
 
 ##
 
