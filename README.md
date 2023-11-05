@@ -1,4 +1,4 @@
-**<h1 align="center">Buenas! Como va. 🧉</h1>**
+**<h1 align="center">Buenas! Como andan. 🧉</h1>**
 
 
 *<h3 align="center">Me llamo Tomás y soy Desarrollador Full-Stack.</h3>*
