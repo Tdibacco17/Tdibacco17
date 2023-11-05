@@ -33,6 +33,7 @@
 >  +   [+5491166637192](https://wa.me/5491166637192)
 
 ###### *Hoy en dia trabajo como desarrollador FrontEnd para una empresa en Cordoba, Argentina que se dedica a E-Commerces.*
+###### *Tambien suelo hacer trabajos de manera Freelance por mi cuenta para clientes.*
  
 ##
 
