@@ -1,8 +1,8 @@
 **<h1 align="center">Buenas! Como va. 🧉</h1>**
 
 
-*<h3 align="center">Me llamo Tomas y soy Desarrollador Full-Stack.</h3>*
-*<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*
+*<h3 align="center">Me llamo Tomás y soy Desarrollador Full-Stack.</h3>*
+<!--*<h4 align="center">Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.</h4>*-->
 
 ##
  
