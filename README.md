@@ -1,7 +1,7 @@
 **<h1 align="center">Buenas! Como andan.. 🧉</h1>**
 
 *<h3 align="center">Desarrollador Full Stack con más de dos años de Exp.</h3>*
-*<h3 align="center">Tengo interés  por el diseño, capacidad para resolver problemas, buscar soluciones creativas, trabajar en equipo, comunicación y autonomía..</h3>*
+*<h3 align="center">Tengo interés  por el diseño, capacidad para resolver problemas, buscar soluciones creativas, trabajar en equipo, comunicación y autonomía.</h3>*
 
 ##
  
