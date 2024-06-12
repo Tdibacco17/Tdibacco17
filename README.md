@@ -1,4 +1,4 @@
-**<h1 align="center">Buenas! Soy Tomás Di Bacco👋</h1>**
+**<h1 align="center">Buenas! Soy Tomás👋</h1>**
 
 *<h3 align="center">Desarrollador Full Stack, optimista y transparente, con mucha energía para aportar.</h3>*
 *<h3 align="center">Con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.</h3>*
