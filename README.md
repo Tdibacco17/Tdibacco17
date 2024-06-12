@@ -1,7 +1,7 @@
-**<h1 align="center">Buenas! Como andan.. 🧉</h1>**
+**<h1 align="center">Buenas! Soy Tomás Di Bacco👋</h1>**
 
-*<h3 align="center">Desarrollador Full Stack con más de dos años de Exp.</h3>*
-*<h3 align="center">Tengo interés  por el diseño, capacidad para resolver problemas, buscar soluciones creativas, trabajar en equipo, comunicación y autonomía.</h3>*
+*<h3 align="center">Desarrollador Full Stack, optimista y transparente, con mucha energía para aportar.</h3>*
+*<h3 align="center">Con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.</h3>*
 
 ##
  
@@ -31,6 +31,7 @@
 >  +   [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 >  +   [+5491166637192](https://wa.me/5491166637192)
 
+*<h6 align="left">Actualmente me encuentro trabajando como desarrollador Front End en House of CB.</h6>*
  
 ##
 
