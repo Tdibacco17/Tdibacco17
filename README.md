@@ -1,6 +1,6 @@
 ## Buenas!!👋 Soy [Tomás](https://tomas-di-bacco.vercel.app/)
 Desarrollador Full Stack, optimista y transparente, con mucha energía para aportar.<br>
-Con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario
+Con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.
 
 <br>
 
@@ -30,8 +30,8 @@ Con la misión de crear productos que optimicen procesos y mejoren la experienci
 - [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 - [+5491166637192](https://wa.me/5491166637192)
 
-###### *Actualmente me encuentro trabajando como desarrollador Front End en [House of CB](https://https://www.houseofcb.com/)*
+###### *Actualmente me encuentro trabajando como desarrollador Front End en [House of CB](https://https://www.houseofcb.com/).*
 
 ---
 
-#### TE INVITO A VER MI [PORTFOLIO](https://tomas-di-bacco.vercel.app/)
+#### TE INVITO A VER MI [PORTFOLIO](https://tomas-di-bacco.vercel.app/).
