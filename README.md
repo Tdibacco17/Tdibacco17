@@ -1,6 +1,5 @@
 ## Buenas!!👋 Soy [Tomás](https://tomas-di-bacco.vercel.app/)
-Desarrollador Full Stack, optimista y transparente, con mucha energía para aportar.<br>
-Con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.
+Desarrollador Full Stack, optimista y transparente, con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.
 
 <br>
 
