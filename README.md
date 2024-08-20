@@ -29,7 +29,7 @@ Desarrollador Full Stack, optimista y transparente, con la misión de crear prod
 - 📫 [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 - ☎️ [+5491166637192](https://wa.me/5491166637192)
 
-###### *Actualmente me encuentro trabajando como desarrollador Front End en [House of CB](https://https://www.houseofcb.com/).*
+###### *Actualmente me encuentro trabajando como desarrollador Front End en [House of CB](https://www.houseofcb.com/).*
 
 ---
 
