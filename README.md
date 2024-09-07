@@ -1,4 +1,4 @@
-## Buenas!!👋 Soy [Tomás](https://tomas-di-bacco.vercel.app/)
+## Buenaas!! 🤙🏽
 Desarrollador Full Stack, optimista y transparente, con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.
 
 <br>
@@ -16,6 +16,7 @@ Desarrollador Full Stack, optimista y transparente, con la misión de crear prod
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="auto" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="auto" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="auto" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="35" width="auto" alt="docker logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="auto" alt="mongodb logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="35" width="auto" alt="sequelize logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" width="auto" alt="express logo"  /> 
