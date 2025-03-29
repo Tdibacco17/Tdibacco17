@@ -1,5 +1,5 @@
-## Buenaas!! 🤙🏽
-Desarrollador Full Stack, optimista y transparente, con la misión de crear productos que optimicen procesos y mejoren la experiencia del usuario.
+## Buenaas Buenass!!
+Desarrollador Full Stack, transparente, optimista y con mucha energía para aportar.
 
 <br>
 
@@ -30,7 +30,7 @@ Desarrollador Full Stack, optimista y transparente, con la misión de crear prod
 - 📫 [tomasdibacco@gmail.com](mailto:tomasdibacco@gmail.com)
 - ☎️ [+5491166637192](https://wa.me/5491166637192)
 
-###### *Actualmente me encuentro trabajando como desarrollador Front End en [House of CB](https://app.houseofcb.com/).*
+###### *Actualmente me encuentro trabajando como desarrollador Full STack en [House of CB](https://app.houseofcb.com/).*
 
 ---
 
